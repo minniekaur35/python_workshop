@@ -1,0 +1,35 @@
+{
+    "family_members": [
+        {
+            "Relation": "Mother", 
+            "Name": "Manjit Kaur",
+            "DOB": "1968/12/15",
+            "Place_birth": "Ludhiana",
+            "Zodiac": "Sagittarius"
+            
+        },
+        {
+            "Relation": "Father",
+            "Name": "Gurcharan Singh",
+            "DOB": "1956/06/15",
+            "Place_birth": "Miani",
+            "Zodiac": "Gemini"
+        },
+
+        {
+            "Relation": "Brother",
+            "Name": "Palwinder Singh",
+            "DOB": "1987/12/20",
+            "Place_birth": "Miani",
+            "Zodiac": "Sagittarius"
+        },
+
+        {
+            "Relation": "Brother",
+            "Name": "Rajwinder Singh",
+            "DOB": "1989/03/12",
+            "Place_birth": "Miani",
+            "Zodiac": "Pisces"
+        }
+    ]
+}

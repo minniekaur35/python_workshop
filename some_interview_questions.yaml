@@ -1,0 +1,12 @@
+Layer 2 status:
+  ip link show ens33
+
+ARP Table: 
+ The ARP table is used to maintain a correlation between each MAC address and its corresponding IP address. 
+  arp -n
+
+binding between protocol address and link layer: 
+  ip neigh show
+
+
+

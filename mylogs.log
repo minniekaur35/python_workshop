@@ -1,0 +1,26 @@
+WARNING -- 2022-06-01 16:49:09,664 --  Returned default value for safe execution -  -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/debug_check.py
+ERROR -- 2022-06-01 16:49:11,712 --  Conversion to integer failed for -  tttt returned default value 0 -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/debug_check.py
+INFO -- 2022-06-01 16:49:11,712 --  surface_area for radius 0 and height 0 was computed succesfully -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/debug_check.py
+ template -- 2022-06-02 01:49:17,655 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 01:50:16,852 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 01:52:01,512 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 14:18:17,305 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 14:20:47,290 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 14:20:57,327 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 14:54:22,538 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 15:01:54,985 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today, the mood of {0} is {1} -- 2022-06-02 15:04:01,133 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ {0} is not okay -- 2022-06-02 15:04:09,929 -- WARNING -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ {0} is not okay -- 2022-06-02 15:05:03,815 -- WARNING -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ The person is in danger -- 2022-06-02 15:05:30,811 -- CRITICAL -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ {0} is not okay -- 2022-06-02 15:17:48,498 -- WARNING -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:19:29,930 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:21:19,632 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:24:43,135 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:25:14,285 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/moodlogs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:28:29,235 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:35:29,703 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:35:52,688 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
+ Today's mood of {name} is {mood}. -- 2022-06-02 15:47:36,647 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
+ Today's mood of {name} is {mood}. -- 2022-06-03 23:42:45,103 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
+ Today's mood of {name} is {mood}. -- 2022-06-03 23:43:43,239 -- INFO -- /Users/manpreetkaur/project/TASKS/fluffy-octo-parakeet/mood_logs.py
